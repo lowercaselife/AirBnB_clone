@@ -1,5 +1,6 @@
 <h1>AirBnB clone - The console</h1>
-**Background Context**
+
+## **Background Context**
 ## **First step: Write a command interpreter to manage your AirBnB objects.**
 This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
 
@@ -53,12 +54,12 @@ e.g., For models/user.py, unit tests must be in: tests/test_models/test_user.py
 - All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
 - We strongly encourage you to work together on test cases, so that you don’t miss any edge case
 
-# HOW WORK THE CONSOL
+# HOW THE CONSOLE WORKS
 
-## Steep for test the console
+## Steps for testing the console
 ### 1. Clone the repository with HTTPS:
 ```
-$ git clone https://github.com/cbarros7/AirBnB_clone.git
+$ git clone https://github.com/lowercaselife/AirBnB_clone.git
 ```
 ### 2. Go to folder AirBnB_clone
 ```
